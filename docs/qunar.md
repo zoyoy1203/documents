@@ -10,12 +10,20 @@ nodjs爬取数据，存入MongoDB数据库，通过路由使用接口。
 
 # 注意：
 该项目开源，已部署在服务器上，可以直接调用接口。
-只有热门地区的数据，其他地区的数据没弄。但是足够个人练习开发了。
-感兴趣的同学可以下载源码，自己研究研究。
+
+只有热门地区的数据，其他地区的数据没弄,但是足够个人练习开发了。
+
+线上地址：http://zyuanyuan.com:4000
+在后面追加对应的接口地址即可使用
+
+例如：[http://zyuanyuan.com:4000/cities](http://zyuanyuan.com:4000/cities)
+
+感兴趣的同学可以下载源码,自己部署。
 
 
 # 安装 
-[GitHub项目地址](https://github.com/zoyoy1203/qunarApi)
+[GitHub项目地址](https://github.com/zoyoy1203/qunarApi) 
+
 ```
 $ git clone git@github.com:zoyoy1203/qunarApi.git
 
