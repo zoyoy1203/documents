@@ -13,10 +13,10 @@ nodjs爬取数据，存入MongoDB数据库，通过路由使用接口。
 
 只有热门地区的数据，其他地区的数据没弄,但是足够个人练习开发了。
 
-线上地址：http://zyuanyuan.com:4000
+线上地址：http://zyuanyuan.com/qunarApi
 在后面追加对应的接口地址即可使用
 
-例如：[http://zyuanyuan.com:4000/cities](http://zyuanyuan.com:4000/cities)
+例如：[http://zyuanyuan.com/qunarApi/cities](http://zyuanyuan.com/qunarApi/cities)
 
 感兴趣的同学可以下载源码,自己部署。
 
