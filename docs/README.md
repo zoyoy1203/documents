@@ -12,6 +12,14 @@
 # 工作原理
 伪造请求头，调用官方API   
 
+# 注意：
+该项目开源，已部署在服务器上，可以直接调用接口。
+
+线上地址：http://zyuanyuan.com/foodsApi
+在后面追加对应的接口地址即可使用
+
+例如：[http://zyuanyuan.com/foodsApi/home](http://zyuanyuan.com/foodsApi/home)
+
 # 安装 
 [GitHub项目地址](https://github.com/zoyoy1203/FoodsApi)
 ```
