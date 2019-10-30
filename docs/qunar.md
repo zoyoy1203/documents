@@ -14,6 +14,9 @@
 
 例如：[http://zyuanyuan.com/qunarApi/cities](http://zyuanyuan.com/qunarApi/cities)
 
+境内所有城市的首页详情数据已完成，部分城市因为页面不同，暂时没有抓取数据，请求为空。
+境外城市的首页详情数据没有弄。
+
 感兴趣的同学可以下载源码,自己部署。
 
 
